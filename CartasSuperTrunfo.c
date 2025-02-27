@@ -27,7 +27,7 @@ int main() { // Início da função principal
     scanf(" %c", &estado); // Grava a informação inserida
 
     printf("\nInforme a Código do card 1: \n");
-    scanf("%s", codigo); // Não precisa de & (char com leitura em strig), Grava a informação inserida
+    scanf("%s", codigo); // Não precisa de & (char com leitura em string), Grava a informação inserida
 
     printf("\nInforme a Cidade do card 1: \n");
     scanf("%s", cidade); 
