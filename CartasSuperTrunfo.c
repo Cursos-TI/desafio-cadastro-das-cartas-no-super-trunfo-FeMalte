@@ -1,6 +1,6 @@
 #include <stdio.h> // Inicialização da biblioteca
 
-int main() { // Início da função principal
+int main() { // Início da função principal - Super Trunfo
     
     // Declaração das variáveis do card1
     int carta = 1; 
